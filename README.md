@@ -1,1 +1,72 @@
 # go-design-patterns
+
+### Table of contents
+ - Solid
+   - Open closed principle
+   - Liskov Substitution principle
+   - Interface segrigation principle
+   - Dependency inversion principle
+ - Builder
+   - Builder
+   - Builder facets
+   - Builder parameter
+   - Functional builder
+ - Factories
+   - Factory Function
+   - Factory Generator
+   - Prototype Factory
+ - Prototype
+   - Deep Copying
+   - Copy Method
+   - Copy through serialization
+   - Prototype factory
+ - Singleton
+ - Adapter caching
+ - Bridge
+ - Composite
+   - Geometric shape
+   - Neural Network
+ - Decorator
+   - Multiple aggrigation
+   - Decorator
+ - Facade
+ - Flyweight 
+   - Text Formating
+   - User Names
+ - Proxy
+   - Protection Proxy
+   - Virtual Proxy
+ - Chain of responsibility 
+   - Method Chain
+   - Broker Chain
+ - Command
+   - Command
+   - Composite Command
+   - Functional Command
+ - Interpreter
+   - Lexing
+ - Iterator
+   - Iteration
+   - Tree traversal
+ - Mediator
+   - Chat room
+ - Memento
+   - Memento
+   - Undo and Redo
+ - Observer
+   - Observer and observable 
+   - Property observers
+   - Property dependencies 
+ - State
+   - Classic implementation
+   - Handmade state machine
+   - Swith-based state machine
+ - Strategy
+ - Template Method
+   - Template Method
+   - Functional Template method
+ - Visitor
+   - Intrusive visitor
+   - Reflective visitor
+   - Classic visitor
+
